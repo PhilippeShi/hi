@@ -9,7 +9,7 @@
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    animation: App-logo-spin infinite 10s linear;
   }
 }
 
@@ -35,4 +35,27 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+/* Add custom classes for each logo */
+.e0 {
+  animation-delay: 0s; /* Start spinning immediately */
+}
+.e1 {
+  animation-delay: 0.5;
+}
+.e2 {
+  animation-delay: 1s;
+}
+.e3 {
+  animation-delay: 1.5s;
+}
+.e4 {
+  animation-delay: 2s;
+}
+.e5 {
+  animation-delay: 2.5s;
+}
+.e6 {
+  animation-delay: 3s;
 }
