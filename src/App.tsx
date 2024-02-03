@@ -6,25 +6,25 @@ function App() {
     <div className="App">
       <header className="App-header">
       <h1>Hi Elly</h1>
-        <img src={'e0.jpeg'} className="App-logo e1" alt="logo"  
+        <img src={'e0.JPEG'} className="App-logo e1" alt="logo"  
         // style={{width: '100px', height: '100px'}}
         />
-        <img src={'e1.jpeg'} className="App-logo e2" alt="logo"
+        <img src={'e1.JPEG'} className="App-logo e2" alt="logo"
         // style={{width: '100px', height: '100px'}}
         />
-        <img src={'e2.jpeg'} className="App-logo e3" alt="logo"
+        <img src={'e2.JPEG'} className="App-logo e3" alt="logo"
         // style={{width: '100px', height: '100px'}}
         />
-        <img src={'e3.jpeg'} className="App-logo e4" alt="logo"
+        <img src={'e3.JPEG'} className="App-logo e4" alt="logo"
         // style={{width: '100px', height: '100px'}}
         />
-        <img src={'e4.jpeg'} className="App-logo e5" alt="logo"
+        <img src={'e4.JPEG'} className="App-logo e5" alt="logo"
         // style={{width: '100px', height: '100px'}}
         />
-        <img src={'e5.jpeg'} className="App-logo e6" alt="logo"
+        <img src={'e5.JPEG'} className="App-logo e6" alt="logo"
         // style={{width: '100px', height: '100px'}}
         />
-        <img src={'e6.jpeg'} className="App-logo e7" alt="logo"
+        <img src={'e6.JPEG'} className="App-logo e7" alt="logo"
         // style={{width: '100px', height: '100px'}}
         />
 
